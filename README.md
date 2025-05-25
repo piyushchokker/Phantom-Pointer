@@ -1,4 +1,4 @@
-# Hand Tracking Mouse Control
+# Hand Tracking Mouse Control (made on 10-Jan-2023)
 
 This project aims to create a virtual mouse control system using hand tracking. The current implementation provides basic hand tracking functionality using OpenCV and MediaPipe.
 
@@ -31,5 +31,3 @@ python hand_tracker.py
 This is just the beginning! Future improvements will include:
 - Mouse cursor control using hand position
 - Click detection using finger gestures
-- Scroll control
-- Right-click functionality "# PhantomPointer" 
